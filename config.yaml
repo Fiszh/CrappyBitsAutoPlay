@@ -1,0 +1,6 @@
+# Your channel
+channel: uni1g
+# Bits per second
+bitsPerSec: 10
+# Maximum video length in seconds
+maxVideoLength: 3600
